@@ -7,7 +7,7 @@ title: Aviso de privacidad – Grilla Fina
 Última actualización: 4 de octubre de 2026
 
 ## Responsable
-[Tu nombre legal completo], con domicilio en Ciudad de México, es responsable
+Ramon Ayala Garcia, con domicilio en Ciudad de México, es responsable
 del tratamiento de los datos descritos en este aviso, en relación con la cuenta
 @grillafinamx y la aplicación "Grilla Fina" registrada en Meta for Developers.
 Contacto: grillafinamx@gmail.com
